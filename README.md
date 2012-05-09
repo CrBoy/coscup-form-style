@@ -4,7 +4,7 @@ The COSCUP Form Style
 This project is for unifying the form style for Google Docs Form used in COSCUP.
 
 In COSCUP, we often use Google Docs for collecting information from others.
-For better corporate identity (CI), we made this style sheet to **hack** the form.
+For better corporate identity (CI), we made this stuffs to **hack** the form.
 
 Currently, we made these changes to the form:
 
